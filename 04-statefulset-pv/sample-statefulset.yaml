@@ -29,7 +29,7 @@ spec:
       name: www
     spec:
       accessModes: [ "ReadWriteOnce" ]
-      storageClassName: ebs
+      storageClassName: standard
       resources:
         requests:
           storage: 1Gi
