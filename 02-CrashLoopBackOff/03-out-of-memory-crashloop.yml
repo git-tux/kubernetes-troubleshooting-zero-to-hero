@@ -22,5 +22,5 @@ spec:
         resources:
          limits:
           cpu: "25m"
-          memory: "25Mi"
+          memory: "125Mi"
          
